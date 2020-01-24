@@ -1,4 +1,3 @@
 Git config --global user.name “username”.
 Git config --global user.email “email id”.
 These are done we can easily find out who had made the changes in the code and the other stuffs.
-To check the configuration values that was entered we can use the command “git config --list”.
